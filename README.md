@@ -34,7 +34,7 @@ I enjoy bridging academic theory with practical application—building desktop s
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=0e76a8)](www.linkedin.com/in/samuel-henrique-b57a80260)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-henrique-b57a80260)
 [![Gmail Badge](https://img.shields.io/badge/-sam.henrique06@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:sam.henrique06@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/S4MD3V?label=follow&style=social)](https://github.com/S4MD3V)
 
